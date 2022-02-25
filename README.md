@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Authentication Page using Recat and Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To review the project: <a href="https://tender-wright-89b48f.netlify.app/" >Click Here</a> 
+
+## To run the project
+Step-1: Open Terminal
+Step-2: Go to the project Directory<br>
+Step-3: Downloas all the dependencies using "npm i" command<br>
+Step-4: In firebase.js file enter your credentials as stated<br>
+step-5: Run command "npm start"
+
 
 ## Available Scripts
 
@@ -68,3 +78,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# ScreenShots
+<img src="src/assests/Screenshot from 2022-02-25 22-29-53.png" />
+<img src="src/assests/Screenshot from 2022-02-25 22-29-56.png" />
+<img src="src/assests/Screenshot from 2022-02-25 22-30-18.png" />
+<img src="src/assests/Screenshot from 2022-02-25 22-30-54.png" />
+<img src="src/assests/Screenshot from 2022-02-25 22-31-24.png" />
